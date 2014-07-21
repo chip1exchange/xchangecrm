@@ -1,0 +1,26 @@
+<?php
+// created: 2014-07-16 06:33:35
+$mod_strings = array (
+  'LBL_DISCOUNT' => 'Discount',
+  'LBL_SUBTOTAL' => 'Subtotal',
+  'LBL_SHIPPING' => 'Shipping',
+  'LBL_TAX' => 'Tax',
+  'LBL_TOTAL_AMT' => 'Total',
+  'LBL_DETAILVIEW_PANEL1' => 'Total',
+  'LBL_GRAND_TOTAL' => 'Grand Total',
+  'LBL_EDITVIEW_PANEL1' => 'Total',
+  'LBL_OPPORTUNITIES_LINES_LINE_ITEMS_1_FROM_LINES_LINE_ITEMS_TITLE' => 'Line Items',
+  'LNK_NEW_OPPORTUNITY' => 'Create Requirement',
+  'LNK_OPPORTUNITY_LIST' => 'View Requirements',
+  'LNK_IMPORT_OPPORTUNITIES' => 'Import Requirements',
+  'LBL_LIST_FORM_TITLE' => 'Requirement List',
+  'LBL_SEARCH_FORM_TITLE' => 'Requirement Search',
+  'LBL_MY_CLOSED_OPPORTUNITIES' => 'My Closed Requirements',
+  'LBL_TOP_OPPORTUNITIES' => 'My Top Open Requirements',
+  'LBL_AMOUNT' => 'Target Price',
+  'LBL_OPPORTUNITY_NAME' => 'Requirement Name:',
+  'LBL_MODULE_NAME' => 'Requirements',
+  'LBL_REQUIREMENT_TEXT' => 'Requirements',
+  'LBL_EDITVIEW_PANEL2' => 'Enter Requirements',
+  'LBL_OPPORTUNITY_INFORMATION' => 'Requirements',
+);

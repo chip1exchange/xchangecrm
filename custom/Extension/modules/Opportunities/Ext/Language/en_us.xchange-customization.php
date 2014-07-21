@@ -1,0 +1,5 @@
+<?php 
+ // created: 2014-05-08 09:15:35
+$mod_strings['LBL_OPPORTUNITIES_QUOTE_QUOTATIONS_1_FROM_QUOTE_QUOTATIONS_TITLE'] = 'Quotations';
+
+?>

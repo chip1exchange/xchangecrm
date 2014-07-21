@@ -1,0 +1,34 @@
+<?php 
+ //WARNING: The contents of this file are auto-generated
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_QUOTE_QUOTATIONS_LINES_LINE_ITEMS_1_FROM_QUOTE_QUOTATIONS_TITLE'] = 'Quotations';
+$mod_strings['LBL_OPPORTUNITIES_LINES_LINE_ITEMS_1_FROM_OPPORTUNITIES_TITLE'] = 'Opportunities';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_REQS_REQUIREMENTS_LINES_LINE_ITEMS_1_FROM_REQS_REQUIREMENTS_TITLE'] = 'Requirements';
+$mod_strings['LBL_PARTS_PARTS_LINES_LINE_ITEMS_1_FROM_PARTS_PARTS_TITLE'] = 'Parts';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_OPPORTUNITIES_LINES_LINE_ITEMS_1_FROM_OPPORTUNITIES_TITLE'] = 'Opportunities';
+$mod_strings['LBL_QUOTE_QUOTATIONS_LINES_LINE_ITEMS_1_FROM_QUOTE_QUOTATIONS_TITLE'] = 'Quotations';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_REQS_REQUIREMENTS_LINES_LINE_ITEMS_1_FROM_REQS_REQUIREMENTS_TITLE'] = 'Requirements';
+
+ 
+ // created: 2014-05-08 09:15:35
+$mod_strings['LBL_QUANTITY'] = 'Quantity';
+$mod_strings['LBL_COST_PRICE'] = 'Cost Price';
+$mod_strings['LBL_UNIT_PRICE'] = 'Unit Price';
+$mod_strings['LBL_TAX_AMOUNT'] = 'Tax Amount';
+$mod_strings['LBL_TAX'] = 'Tax';
+$mod_strings['LBL_TOTAL_PRICE'] = 'Total Price';
+
+
+
+?>
